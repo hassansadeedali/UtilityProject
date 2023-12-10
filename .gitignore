@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/UtilityProject/v17
+/.vs
+/BE/.vs/Project.API/FileContentIndex
+/BE/Project.API/bin/Debug/net7.0/runtimes/unix/lib/net6.0
+/BE/Project.API/bin/Debug/net7.0
+/BE/Project.API/obj
